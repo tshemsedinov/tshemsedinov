@@ -1,16 +1,15 @@
 🔭 [Researcher](https://linkedin.com/in/shemsedinov),
 🎓 [Lecturer](https://github.com/HowProgrammingWorks/Index),
 👷 [R&D lab head](http://metarhia.com/),
-📐 Chief technology architect at [Metarhia](https://github.com/metarhia):
-technology stack for private clouds, distributed databases and applications,
+📐 Chief architect at [Metarhia](https://github.com/metarhia)
+technology stack for private clouds,
 ⚡ Open source software engineer,
-📺 have more than 180 video [lectures on youtube](https://www.youtube.com/TimurShemsedinov),
+📺 >180 free video [lectures on youtube](https://www.youtube.com/TimurShemsedinov),
 🔔 >15K subscribers,
-Metarhia community organizer (more than >18K engineers):
+Metarhia community organizer (>18K engineers):
 👨‍💻 [NodeUA](https://www.meetup.com/NodeUA/),
 🏙️ [Kiev Node.js](http://www.meetup.com/KievNodeJS/) and
 🌱 [HowProgrammingWorks](https://www.meetup.com/HowProgrammingWorks/),
-📢 speaker at >40 TI conferences.
-Contact me:
+📢 speaker at >40 TI conferences,
 💬 telegram: [@tshemsedinov](https://telegram.me/tshemsedinov),
 📫 email: [timur.shemsedinov@gmail.com](mailto:timur.shemsedinov@gmail.com)
