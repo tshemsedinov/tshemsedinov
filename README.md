@@ -1,4 +1,6 @@
-🔭 Researcher, 🎓 Lecturer, 👷 [R&D lab head](http://metarhia.com/),
+🔭 [Researcher](https://linkedin.com/in/shemsedinov),
+🎓 [Lecturer](https://github.com/HowProgrammingWorks/Index),
+👷 [R&D lab head](http://metarhia.com/),
 📐 Chief technology architect at [Metarhia](https://github.com/metarhia):
 technology stack for private clouds, distributed databases and applications,
 ⚡ Open source software engineer,
