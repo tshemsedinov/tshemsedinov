@@ -5,7 +5,7 @@
 technology stack for private clouds, distributed databases and applications,
 ⚡ Open source software engineer,
 📺 have more than 180 video [lectures on youtube](https://www.youtube.com/TimurShemsedinov),
-🔔 [>15K subscribers](https://www.youtube.com/channel/TimurShemsedinov?sub_confirmation=1),
+🔔 >15K subscribers,
 Metarhia community organizer (more than >18K engineers):
 👨‍💻 [NodeUA](https://www.meetup.com/NodeUA/),
 🏙️ [Kiev Node.js](http://www.meetup.com/KievNodeJS/) and
