@@ -10,6 +10,6 @@ Metarhia community organizer (>18K engineers):
 👨‍💻 [NodeUA](https://www.meetup.com/NodeUA/),
 🏙️ [Kiev Node.js](http://www.meetup.com/KievNodeJS/) and
 🌱 [HowProgrammingWorks](https://www.meetup.com/HowProgrammingWorks/),
-📢 speaker at >40 TI conferences,
+📢 speaker at >40 IT conferences,
 💬 telegram: [@tshemsedinov](https://telegram.me/tshemsedinov),
 📫 [timur.shemsedinov@gmail.com](mailto:timur.shemsedinov@gmail.com)
