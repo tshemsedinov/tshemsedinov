@@ -5,8 +5,8 @@
 📐 Chief architect at [Metarhia](https://github.com/metarhia)
 technology stack for private clouds,
 📺 [>180 free video lectures](https://www.youtube.com/TimurShemsedinov),
-🔔 >16K subscribers,
-Metarhia community organizer (>18K engineers):
+🔔 >17K subscribers,
+Metarhia community organizer (~20K engineers):
 👨‍💻 [NodeUA](https://www.meetup.com/NodeUA/),
 🏙️ [Kiev Node.js](http://www.meetup.com/KievNodeJS/) and
 🌱 [HowProgrammingWorks](https://www.meetup.com/HowProgrammingWorks/),
