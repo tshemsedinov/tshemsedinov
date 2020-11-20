@@ -8,7 +8,7 @@ technology stack for private clouds,
 🔔 [>17K subscribers](https://www.youtube.com/TimurShemsedinov),
 ⚪ [Metarhia](https://github.com/metarhia) community organizer (~20K engineers):
 👨‍💻 [NodeUA](https://www.meetup.com/NodeUA/),
-🏙️ [Kiev Node.js](http://www.meetup.com/KievNodeJS/) and
+🏙️ [Kiev Node.js](http://www.meetup.com/KievNodeJS/),
 🌱 [HowProgrammingWorks](https://www.meetup.com/HowProgrammingWorks/),
 📢 speaker at >40 IT conferences,
 💬 telegram: [@tshemsedinov](https://telegram.me/tshemsedinov),
