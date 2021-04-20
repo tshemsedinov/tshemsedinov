@@ -1,6 +1,6 @@
 🔭 [Researcher](https://linkedin.com/in/shemsedinov),
 🎓 [Lecturer](https://github.com/HowProgrammingWorks/Index),
-👷 [4th in Ukraine by Github followers](https://github.com/search?q=location%3Aukraine),
+👷 [3rd in Ukraine by Github followers](https://github.com/search?q=location%3Aukraine),
 🛡️ [CTO @ Salucyber](http://metarhia.com/),
 📐 Chief architect at [Metarhia](https://github.com/metarhia) technology stack,
 📺 [>200 free video lectures](https://www.youtube.com/TimurShemsedinov),
