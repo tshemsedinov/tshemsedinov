@@ -7,8 +7,8 @@
 🔔 23K [subscribers](https://www.youtube.com/TimurShemsedinov),
 ⚪ [Metarhia](https://github.com/metarhia) community organizer ~28K engineers:
 👨‍💻 [NodeUA](https://www.meetup.com/NodeUA/),
+🟢 [Metaeducation](https://github.com/me-gi/Index/blob/main/Docs/The-Concept-RU.md),
 🌱 [HowProgrammingWorks](https://www.meetup.com/HowProgrammingWorks/),
-🏙️ [Kiev Node.js](http://www.meetup.com/KievNodeJS/),
 📢 speaker: ~55 [conference talks](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Talks.md),
 💬 telegram: [@tshemsedinov](https://telegram.me/tshemsedinov),
 📫 [timur.shemsedinov@gmail.com](mailto:timur.shemsedinov@gmail.com)
