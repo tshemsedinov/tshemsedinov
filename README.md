@@ -9,6 +9,6 @@
 👨‍💻 [NodeUA](https://www.meetup.com/NodeUA/),
 🟢 [Metaeducation global](https://github.com/me-gi/Index/blob/main/Docs/The-Concept-RU.md),
 🌱 [HowProgrammingWorks](https://www.meetup.com/HowProgrammingWorks/),
-📢 speaker: ~55 [conference talks](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Talks.md),
+📢 speaker: ~60 [conference talks](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Talks.md),
 💬 telegram: [@tshemsedinov](https://telegram.me/tshemsedinov),
 📫 [timur.shemsedinov@gmail.com](mailto:timur.shemsedinov@gmail.com)
