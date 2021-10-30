@@ -6,8 +6,8 @@
 📺 >200 free [video lectures](https://www.youtube.com/TimurShemsedinov),
 🔔 25k [subscribers](https://www.youtube.com/TimurShemsedinov),
 ⚪ [Metarhia](https://github.com/metarhia) community organizer ~30k engineers:
-👨‍💻 [NodeUA](https://www.meetup.com/NodeUA/),
 🟢 [Metaeducation](https://github.com/meta-edu/Index/blob/main/Docs/The-Concept-RU.md),
+👨‍💻 [NodeUA](https://www.meetup.com/NodeUA/),
 🌱 [HowProgrammingWorks](https://www.meetup.com/HowProgrammingWorks/),
 📢 speaker: ~60 [talks](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Talks.md),
 💬 telegram: [@tshemsedinov](https://telegram.me/tshemsedinov),
