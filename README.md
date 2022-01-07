@@ -4,7 +4,7 @@
 🛡️ CTO @ [Salucyber](http://metarhia.com/),
 ⬢ Chief architect at [Metarhia](https://github.com/metarhia) technology stack,
 📺 >200 free [video lectures](https://www.youtube.com/TimurShemsedinov),
-🔔 26k [subscribers](https://www.youtube.com/TimurShemsedinov),
+🔔 27k [subscribers](https://www.youtube.com/TimurShemsedinov),
 ⚪ [Metarhia](https://github.com/metarhia) community organizer ~30k engineers:
 🟢 [Metaeducation](https://github.com/meta-edu/Index/blob/main/Docs/The-Concept-RU.md),
 👨‍💻 [NodeUA](https://www.meetup.com/NodeUA/),
