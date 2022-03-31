@@ -2,7 +2,7 @@
 <code>🎓 [Lecturer](https://github.com/HowProgrammingWorks/Index)</code>
 <code>💡 Advisor</code>
 <code>👷 3rd in Ukraine [by Github followers](https://github.com/search?q=location%3Aukraine)</code>
-<code>🛡️ CTO @ [Salucyber](http://metarhia.com/) & B-OS</code><br>
+<code>🛡️ CTO @ [Salucyber](http://metarhia.com/) & [B-OS](https://b-os.tech/)</code><br>
 <code>📢 Speaker: ~70 [talks](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Talks.md)</code>
 <code>⬢ Chief architect @ [Metarhia](https://github.com/metarhia)</code>
 <code>📺 >230 free [video lectures](https://www.youtube.com/TimurShemsedinov)</code>
