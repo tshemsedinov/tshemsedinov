@@ -6,8 +6,8 @@
 <code>📢 Speaker: ~70 [talks](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Talks.md)</code>
 <code>⬢ Chief architect @ [Metarhia](https://github.com/metarhia)</code>
 <code>📺 >300 free [video lectures](https://www.youtube.com/TimurShemsedinov)</code>
-<code>🔔 35k [subscribers](https://youtube.com/TimurShemsedinov)</code><br>
-<code>⚪ [Metarhia](https://metarhia.com/) community organizer ~38k engineers:</code>
+<code>🔔 36k [subscribers](https://youtube.com/TimurShemsedinov)</code><br>
+<code>⚪ [Metarhia](https://metarhia.com/) community organizer ~39k engineers:</code>
 <code>🟢 [Metaeducation](https://github.com/meta-edu/Index/blob/main/Docs/The-Concept-RU.md)</code>
 <code>👨‍💻 [NodeUA](https://www.meetup.com/NodeUA/)</code>
 <code>🌱 [HowProgrammingWorks](https://www.meetup.com/HowProgrammingWorks/)</code>
