@@ -11,3 +11,4 @@
 <code>🟢 [Metaeducation](https://github.com/meta-edu/Index/blob/main/Docs/The-Concept-RU.md)</code>
 <code>👨‍💻 [NodeUA](https://www.meetup.com/NodeUA/)</code>
 <code>🌱 [HowProgrammingWorks](https://www.meetup.com/HowProgrammingWorks/)</code>
+<code>🥪 [Feed](https://github.com/tshemsedinov/feed)</code>
