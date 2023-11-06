@@ -1,14 +1,14 @@
-<code>🔭 [Researcher](https://linkedin.com/in/shemsedinov)</code>
-<code>🎓 [Lecturer](https://github.com/HowProgrammingWorks/Index)</code>
-<code>💡 [Advisor](https://www.linkedin.com/in/shemsedinov)</code>
-<code>👷 4th in Ukraine [by Github followers](https://github.com/search?q=location%3Aukraine)</code>
-<code>🛡️ CTO @ [Metatech](https://www.youtube.com/@MetatechEducation) & [QOTEQ](https://qoteq.com/)</code><br>
-<code>📢 Speaker: ~80 [talks](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Talks.md)</code>
-<code>⬢ Chief architect @ [Metarhia](https://github.com/metarhia)</code>
-<code>📺 >300 free [video lectures](https://www.youtube.com/TimurShemsedinov)</code>
-<code>🔔 39k [subscribers](https://youtube.com/TimurShemsedinov)</code><br>
-<code>👁️ [Feed](https://github.com/tshemsedinov/feed)</code>
-<code>⚪ [Metarhia](https://metarhia.com/) community organizer ~40k engineers:</code>
-<code>🟢 [Metaeducation](https://github.com/meta-edu/Index/blob/main/Docs/The-Concept-RU.md)</code>
-<code>👨‍💻 [NodeUA](https://www.meetup.com/NodeUA/)</code>
-<code>🌱 [HowProgrammingWorks](https://www.meetup.com/HowProgrammingWorks/)</code>
+<code>🔭&nbsp;[Researcher](https://linkedin.com/in/shemsedinov)</code>
+<code>🎓&nbsp;[Lecturer](https://github.com/HowProgrammingWorks/Index)</code>
+<code>💡&nbsp;[Advisor](https://www.linkedin.com/in/shemsedinov)</code>
+<code>👷&nbsp;4th&nbsp;in&nbsp;Ukraine&nbsp;[by&nbsp;Github&nbsp;followers](https://github.com/search?q=location%3Aukraine)</code>
+<code>🛡️&nbsp;CTO&nbsp;@&nbsp;[Metatech](https://www.youtube.com/@MetatechEducation)&nbsp;&&nbsp;[QOTEQ](https://qoteq.com/)</code>
+<code>📢&nbsp;Speaker:&nbsp;~80&nbsp;[talks](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Talks.md)</code>
+<code>⬢&nbsp;Chief&nbsp;architect&nbsp;@&nbsp;[Metarhia](https://github.com/metarhia)</code>
+<code>📺&nbsp;>300&nbsp;free&nbsp;[video&nbsp;lectures](https://www.youtube.com/TimurShemsedinov)</code>
+<code>🔔&nbsp;39k&nbsp;[subscribers](https://youtube.com/TimurShemsedinov)</code>
+<code>👁️&nbsp;[Feed](https://github.com/tshemsedinov/feed)</code>
+<code>⚪&nbsp;[Metarhia](https://metarhia.com/)&nbsp;community&nbsp;organizer&nbsp;~40k&nbsp;engineers:</code>
+<code>🟢&nbsp;[Metaeducation](https://github.com/meta-edu/Index/blob/main/Docs/The-Concept-RU.md)</code>
+<code>👨‍💻&nbsp;[NodeUA](https://www.meetup.com/NodeUA/)</code>
+<code>🌱&nbsp;[HowProgrammingWorks](https://www.meetup.com/HowProgrammingWorks/)</code>
