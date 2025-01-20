@@ -3,7 +3,7 @@
 <code>💡&nbsp;[Advisor](https://x.com/tshemsedinov)</code>
 <code>👷&nbsp;3th&nbsp;in&nbsp;Ukraine&nbsp;[by&nbsp;Github&nbsp;followers](https://github.com/search?q=location%3Aukraine)</code>
 <code>🛡️&nbsp;CTO&nbsp;@&nbsp;[Metatech](https://www.youtube.com/@MetatechEducation)</code>
-<code>📢&nbsp;Speaker:&nbsp;~80&nbsp;[talks](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Talks.md)</code>
+<code>📢&nbsp;Speaker:&nbsp;~90&nbsp;[talks](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Talks.md)</code>
 <code>⬢&nbsp;Chief&nbsp;architect&nbsp;@&nbsp;[Metarhia](https://github.com/metarhia)</code>
 <code>📺&nbsp;>300&nbsp;free&nbsp;[video&nbsp;lectures](https://www.youtube.com/TimurShemsedinov)</code>
 <code>🔔&nbsp;47k&nbsp;[subscribers](https://youtube.com/TimurShemsedinov)</code>
