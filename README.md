@@ -5,8 +5,8 @@
 <code>🛡️&nbsp;CTO&nbsp;@&nbsp;[Metatech](https://www.youtube.com/@MetatechEducation)</code>
 <code>📢&nbsp;Speaker:&nbsp;~90&nbsp;[talks](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Talks.md)</code>
 <code>⬢&nbsp;Chief&nbsp;architect&nbsp;@&nbsp;[Metarhia](https://github.com/metarhia)</code>
-<code>📺&nbsp;>300&nbsp;free&nbsp;[video&nbsp;lectures](https://www.youtube.com/TimurShemsedinov)</code>
-<code>🔔&nbsp;47k&nbsp;[subscribers](https://youtube.com/TimurShemsedinov)</code>
+<code>📺&nbsp;>350&nbsp;free&nbsp;[video&nbsp;lectures](https://www.youtube.com/TimurShemsedinov)</code>
+<code>🔔&nbsp;48k&nbsp;[subscribers](https://youtube.com/TimurShemsedinov)</code>
 <code>👁️&nbsp;[Feed](https://github.com/tshemsedinov/feed)</code>
 <code>⚪&nbsp;[Metarhia](https://metarhia.com/)&nbsp;community&nbsp;organizer&nbsp;~50k&nbsp;engineers:</code>
 <code>🟢&nbsp;[Metaeducation](https://github.com/meta-edu/Index/blob/main/Docs/The-Concept-RU.md)</code>
