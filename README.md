@@ -3,10 +3,9 @@
 <code>💡&nbsp;[Advisor](https://x.com/tshemsedinov)</code>
 <code>🛡️&nbsp;CTO&nbsp;@&nbsp;[Metatech](https://www.youtube.com/@MetatechEducation)</code>
 <code>📢&nbsp;Speaker:&nbsp;100+&nbsp;[talks](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Talks.md)</code>
-<code>⬢&nbsp;Chief&nbsp;architect&nbsp;@&nbsp;[Metarhia](https://github.com/metarhia)</code>
+<code>⬢&nbsp;Architect&nbsp;@&nbsp;[Metarhia](https://github.com/metarhia)</code>
 <code>📺&nbsp;350+&nbsp;free&nbsp;[video&nbsp;lectures](https://www.youtube.com/TimurShemsedinov)</code>
 <code>🔔&nbsp;49+k&nbsp;[subscribers](https://youtube.com/TimurShemsedinov)</code>
-<code>⚪&nbsp;[Metarhia](https://metarhia.com/)&nbsp;community&nbsp;organizer&nbsp;50k+&nbsp;engineers:</code>
 <code>👨‍💻&nbsp;[NodeUA](https://t.me/metarhia)</code>
 <code>🌱&nbsp;[HowProgrammingWorks](https://t.me/HowProgrammingWorks)</code>
 <code>🪪&nbsp;[WebCard.id](https://webcard.id/)</code>
